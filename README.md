@@ -6,7 +6,7 @@
 ## Deployment
 Download the code zip file
 
-Extraxt it
+Extract it
 
 Open the folder in VS Code
 
